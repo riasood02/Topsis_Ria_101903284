@@ -8,7 +8,7 @@ setup(
   author = 'Ria Sood',                
   author_email = 'rsood1_be19@thapar.edu',      
   url = 'https://github.com/riasood02/Topsis_Ria_101903284',   
-  download_url = '',    
+  download_url = 'https://github.com/riasood02/Topsis_Ria_101903284/archive/refs/tags/version.tar.gz',    
   keywords = ['topsis','topsis score','rank','Thapar'],
   install_requires=['numpy','pandas' ],
   classifiers=[
